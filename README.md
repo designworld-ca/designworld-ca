@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **designer@designworld.ca**
 
-- ⚡ Fun fact **Beta games tester and Stack Exchange moderator**
+- ⚡ Fun fact **Beta games tester and Stack Exchange moderator and this repository does not use Java**
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsky&layout=compact&hide=html" alt="kevinsky" /></p>
 
