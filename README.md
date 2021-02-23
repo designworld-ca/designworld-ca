@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [TDE for SQL Server](https://github.com/designworld-ca/SQLServer)
 
-- 🌱 I’m currently learning **AWS RDS**
+- 🌱 I’m currently learning **Secure Software Development: Implementation** and **Cloud FinOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/designworld-ca](https://github.com/designworld-ca)
 
 - 📝 I regularly write articles on [https://designworld-ca.github.io/](https://designworld-ca.github.io/)
 
-- 💬 Ask me about **Oracle database, Security Audits**
+- 💬 Ask me about **Oracle databases, MS SQL database and Security Audits**
 
 - 📫 How to reach me **designer@designworld.ca**
 
