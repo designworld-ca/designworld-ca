@@ -20,7 +20,7 @@ src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="
 src="https://github.com/detain/svg-logos/blob/master/svg/microsoft-sql-server.svg" alt="MS SQL Server" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> <img 
 src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/> <img 
 src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/></p><p><img align="center" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsky&layout=compact&hide=html" alt="kevinsky" /></p>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsky&layout=compact&hide=html,java" alt="kevinsky" /></p>
 
 <p align="center">
 <a href="https://stackoverflow.com/users/851930" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="851930" height="30" width="30" /></a>
