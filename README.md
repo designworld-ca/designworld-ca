@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TDE for SQL Server](https://github.com/designworld-ca/SQLServer)
 
-- 🌱 I’m currently learning **Secure Software Development: Implementation** and **Cloud FinOps**
+- 🌱 I’m currently learning  **[Cloud FinOps](https://www.finops.org/introduction/what-is-finops/)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/designworld-ca](https://github.com/designworld-ca)
 
