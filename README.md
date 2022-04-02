@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin LaRoche</h1>
 <h3 align="center">A seasoned enterprise architect from Canada: Databases, Security, Migrations and more</h3>
 
-- 🔭 I’m currently working on [TDE for SQL Server](https://github.com/designworld-ca/SQLServer)
+- 🔭 I have finished [TDE for SQL Server](https://github.com/designworld-ca/SQLServer)
 
 - 🌱 I’m currently learning  **[Cloud FinOps](https://www.finops.org/introduction/what-is-finops/)**
 
