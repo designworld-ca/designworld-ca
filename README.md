@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kevin LaRoche</h1>
-<h3 align="center">A seasoned enterprise architect from Canada: Databases, Security, Migrations and more</h3>
+<h3 align="center">A seasoned IT Security Engineer from Canada: Databases, Security, Migrations and more</h3>
 
 - 🔭 I have finished [TDE for SQL Server](https://github.com/designworld-ca/SQLServer)
 
-- 🌱 I’m currently learning  **[Cloud FinOps](https://www.finops.org/introduction/what-is-finops/)**
+- 🌱 I’m currently taking my CISSP designation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/designworld-ca](https://github.com/designworld-ca)
 
 - 📝 I regularly write articles on [https://designworld-ca.github.io/](https://designworld-ca.github.io/)
 
-- 💬 Ask me about **Oracle databases, MS SQL database and Security Audits**
+- 💬 Ask me about **Oracle databases, MS SQL database and Security Audits using ITSG-33 and NIST controls**
 
 - 📫 How to reach me **designer@designworld.ca**
 
