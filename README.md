@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/designworld-ca](https://github.com/designworld-ca)
 
-- 📝 I regularly write articles on [https://designworld-ca.github.io/designworld-blog/](https://designworld-ca.github.io/)
+- 📝 I regularly write articles on [https://designworld-ca.github.io/designworld-blog]([https://designworld-ca.github.io/](https://designworld-ca.github.io/designworld-blog))
 
 - 💬 Ask me about **Oracle databases, MS SQL database and Security Audits using ITSG-33 and NIST controls**
 
