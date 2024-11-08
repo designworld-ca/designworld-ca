@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a seasoned IT Security Engineer from Canada: Databases, Security, Migrations and more</h1>
+<h1 align="center">Hi 👋, I'm a seasoned IT Security Engineer: Databases, Security, Migrations and more</h1>
 
 - 🔭 I have finished [TDE for SQL Server](https://github.com/designworld-ca/SQLServer)
 
