@@ -4,8 +4,6 @@
 
 - 🔭 I have finished [TDE for SQL Server](https://github.com/designworld-ca/SQLServer)
 
-- 🌱 I’m currently taking my CISSP designation**
-
 - 👨‍💻 All of my projects are available at [https://github.com/designworld-ca](https://github.com/designworld-ca)
 
 - 📝 I regularly write articles on [https://designworld-ca.github.io/designworld-blog](https://designworld-ca.github.io/designworld-blog)
