@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm a seasoned IT Security Engineer: Databases, Security, Migrations and more</h1>
 
-- Upgraded Proxmox from 8.4 with no problems
+- Upgraded Proxmox from [8.4 to 9.0] with no problems (https://github.com/designworld-ca/Proxmox/blob/55526aaab9adb1226b53e5151baaa104afe400ee/07%20Upgrade%20Proxmox%20to%209.0.md)
 
 - Just migrated from [VmWare to Proxmox](https://github.com/designworld-ca/Proxmox/tree/main) with only a few discoveries
 
